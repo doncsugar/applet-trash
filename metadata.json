@@ -10,12 +10,12 @@
             }
         ],
         "Category": "File System",
-        "Description": "Provides access to the files sent to trash",
+        "Description": "Provides access to the files sent to trash. Currently needs original Trashcan on desktop to function.",
         "EnabledByDefault": false,
         "Icon": "user-trash",
         "License": "GPL-2.0+",
-        "Name": "Full Color Trashcan",
-        "Id": "org.kde.full-color-trashcan",
+        "Name": "Sumac Trashcan",
+        "Id": "org.kde.sumac-trashcan",
         "Website": "https://github.com/doncsugar/applet-trash"
     },
     "X-Plasma-API-Minimum-Version": "6.0",
