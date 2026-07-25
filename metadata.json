@@ -14,7 +14,8 @@
         "EnabledByDefault": false,
         "Icon": "user-trash",
         "License": "GPL-2.0+",
-        "Name": "Sumac Trashcan",
+        "Name": "Full Color Trashcan",
+        "Id": "org.kde.full-color-trashcan",
         "Website": "https://github.com/doncsugar/applet-trash"
     },
     "X-Plasma-API-Minimum-Version": "6.0",
