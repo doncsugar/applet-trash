@@ -45,9 +45,10 @@ PlasmoidItem {
     Plasmoid.icon: {
         let iconName = (hasContents ? "user-trash-full" : "user-trash");
 
-        if (inPanel) {
-            return iconName += "-symbolic";
-        }
+        // disable to always show full color icon
+        //if (inPanel) {
+        //    return iconName += "-symbolic";
+        //}
 
         return iconName;
     }
